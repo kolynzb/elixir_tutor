@@ -1,2 +1,4 @@
 - [installation](https://youtu.be/antnsMgA4Ro)
 - [Tutorial](https://youtu.be/pBNOavRoNL0)
+- [Phoenix](https://www.phoenixframework.org/)
+- [Try out all framewoks ](https://youtu.be/FQPlEnKav48)
